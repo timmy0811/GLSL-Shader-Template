@@ -1,11 +1,8 @@
-# OpenGL-Learning
-A basic OpenGL Project solution build in VS22.
-* Using GLEW for linking the OpenGL specifications
-* Using GLFW for window handling
+# GLSL-Shader-Template
+This template uses a GLSL-Fragment-Shader to display shader programms to the screen using simple geometry. In addition this application uses ImGui to manipulate application variables.
 
 ### Additions
 This template includes an OpenGL wrapper project *OpenGL_util*.
-+ Dear ImGui
 + Dynamic Logging System
 + YAML-Support
 + STB-Image
